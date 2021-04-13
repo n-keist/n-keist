@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there!</h3>
+
+<hr />
+
+<p>✨ I'm a fullstack web developer with recent focus on backend development. <br />
+I also enjoy creating mobile apps with flutter, blends in nicely with my recent interests. That could result in a large project 🤔</p>
+
+
+- 💬 Ask me about: Node, Flutter, MySQL
+- 📫 How to reach me: [@nokoflyboi](https://twitter.com/nokoflyboi)
+
 
 <!--
 **n-keist/n-keist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
