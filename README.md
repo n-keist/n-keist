@@ -3,7 +3,7 @@
 <hr />
 
 <p>✨ I'm a fullstack web developer with recent focus on backend development. <br />
-I also enjoy creating mobile apps with flutter, blends in nicely with my recent interests. That could result in a large project 🤔</p>
+I also enjoy creating mobile apps with flutter, blends in nicely with my recent interests 🤔</p>
 
 
 - 💬 Ask me about: Node, Flutter, MySQL
