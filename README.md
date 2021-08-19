@@ -7,7 +7,7 @@ I also enjoy creating mobile apps with flutter, blends in nicely with my recent 
 
 
 - 💬 Ask me about: Node, Flutter, MySQL
-- 📫 How to reach me: [@nokoflyboi](https://twitter.com/nokoflyboi)
+- 📫 How to reach me: [@nokoflyboi](https://instagram.com/nokoflyboi)
 
 
 <!--
