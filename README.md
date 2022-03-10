@@ -2,8 +2,7 @@
 
 <hr />
 
-<p>✨ I'm a fullstack web developer with recent focus on backend development. <br />
-I also enjoy creating mobile apps with flutter, blends in nicely with my recent interests 🤔</p>
+<p>✨ I'm a fulltime Flutter developer from Germany with a background in fullstack development </p>
 
 
 - 💬 Ask me about: Node, Flutter, MySQL
