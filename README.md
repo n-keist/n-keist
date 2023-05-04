@@ -5,8 +5,7 @@
 <p>✨ I'm a fulltime Flutter developer from Germany with a background in fullstack development </p>
 
 
-- 💬 Ask me about: Node, Flutter, MySQL
-- 📫 How to reach me: [@nokoflyboi](https://instagram.com/nokoflyboi)
+- 💬 Ask me about: Flutter, NodeJS, MySQL
 
 
 <!--
